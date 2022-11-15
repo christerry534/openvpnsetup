@@ -67,7 +67,7 @@ echo "knaresborough: 172.16.0.32"
 sudo echo "ifconfig-push 172.16.0.33 255.255.255.0" > /etc/openvpn/ccd/harrogate
 echo "harrogate: 172.16.0.33"
 sudo echo "ifconfig-push 172.16.0.34 255.255.255.0" > /etc/openvpn/ccd/summerbridge
-echo "summerbridge: 172.16.0.34
+echo "summerbridge: 172.16.0.34"
 sudo echo "ifconfig-push 172.16.0.35 255.255.255.0" > /etc/openvpn/ccd/grassington
 echo "grassington: 172.16.0.35"
 sudo echo "ifconfig-push 172.16.0.36 255.255.255.0" > /etc/openvpn/ccd/skipton
